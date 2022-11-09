@@ -5,5 +5,7 @@ public class GitVpractice {
 		
 	}
 	
+	String name = "Bashir";
+	int num = 2000;
 
 }
