@@ -11,6 +11,8 @@ public class GitVpractice {
 		System.out.println("fromLocal");
 		
 		String book = "Bidel";
+		
+		System.out.println("nothin");
 	}
 	
 	
