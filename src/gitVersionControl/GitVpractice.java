@@ -9,6 +9,8 @@ public class GitVpractice {
 	int num = 2000;
 	public void Test() {
 		System.out.println("fromLocal");
+		
+		String book = "Bidel";
 	}
 	
 	
